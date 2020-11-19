@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Who has two thumbs and is using Github?
 Use the left arrow to go back!
